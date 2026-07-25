@@ -1,37 +1,44 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode l=head;
-        ListNode r=head;
-        while(r!=null && r.next!=null){
-            l=l.next;
-            r=r.next.next;
+        if(head == null || head.next == null){
+            return true;
         }
-        ListNode second=reverse(l);
-        ListNode first=head;
-        while(second!=null){
-            if(first.val!=second.val){return false;}
-            first=first.next;
-            second=second.next;
-        }return true;
-    }
-    public ListNode reverse(ListNode curr){
-        ListNode ptr=null;
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=ptr;
-            ptr=curr;
-            curr=next;
+
+        // Step 1: Find middle
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return ptr;
+
+        // Step 2: Reverse second half
+        ListNode prev = null;
+        ListNode curr = slow;
+
+        while(curr != null){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        // Step 3: Compare both halves
+        ListNode first = head;
+        ListNode second = prev;
+
+        while(second != null){
+
+            if(first.val != second.val){
+                return false;
+            }
+
+            first = first.next;
+            second = second.next;
+        }
+
+        return true;
+        
     }
 }
