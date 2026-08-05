@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1512-number-of-good-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
