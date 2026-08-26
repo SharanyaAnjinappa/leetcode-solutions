@@ -2,17 +2,18 @@ class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         String ans="";
         int n=s.length();
-        for(int i=0;i<n;i++){
-            int onecount=0;
-            StringBuilder current=new StringBuilder();
-            for(int j=i;j<n;j++){
-                current.append(s.charAt(j));
-                if(s.charAt(j)=='1'){onecount++;}
-                if(onecount>k){break;}
-                if(onecount==k){
-                    String currstring=current.toString();
-                    if(ans.isEmpty()||currstring.length()<ans.length()||(currstring.length()==ans.length() && currstring.compareTo(ans)<0)){ans=currstring;}
-                }
+        int l=0;
+        int ones=0;
+        for(int r=0;r<n;r++){
+            if(s.charAt(r)=='1'){ones++;}
+            while(ones>k){
+                if(s.charAt(l)=='1'){ones--;}
+                l++;
+            }
+            if(ones==k){
+                while(l<r && s.charAt(l)=='0'){l++;}
+                String curr=s.substring(l,r+1);
+                if(ans.isEmpty()||curr.length()<ans.length()||(curr.length()==ans.length()&&curr.compareTo(ans)<0)){ans=curr;}
             }
         }return ans;
     }
