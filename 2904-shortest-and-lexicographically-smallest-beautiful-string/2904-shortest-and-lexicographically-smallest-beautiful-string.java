@@ -13,7 +13,9 @@ class Solution {
             if(ones==k){
                 while(l<r && s.charAt(l)=='0'){l++;}
                 String curr=s.substring(l,r+1);
-                if(ans.isEmpty()||curr.length()<ans.length()||(curr.length()==ans.length()&&curr.compareTo(ans)<0)){ans=curr;}
+                if(ans.isEmpty()||curr.length()<ans.length()||(curr.length()==ans.length()&&curr.compareTo(ans)<0)){
+                    ans=curr;
+                }
             }
         }return ans;
     }
