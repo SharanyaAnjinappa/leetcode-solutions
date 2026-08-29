@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
