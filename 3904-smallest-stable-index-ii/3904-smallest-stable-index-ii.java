@@ -4,12 +4,13 @@ class Solution {
         int[] suffix_min=new int[n];
         suffix_min[n-1]=nums[n-1];
         for(int i=n-2;i>=0;i--){
-            suffix_min[i]=Math.min(suffix_min[i+1],nums[i]);
+            suffix_min[i]=Math.min(nums[i],suffix_min[i+1]);
         }
         int prefix_max=nums[0];
         for(int i=0;i<n;i++){
             prefix_max=Math.max(prefix_max,nums[i]);
-            if(prefix_max-suffix_min[i]<=k){return i;}
+            int instability=prefix_max-suffix_min[i];
+            if(instability<=k){return i;}
         }return -1;
     }
 }
