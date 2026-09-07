@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
