@@ -20,13 +20,11 @@ class Solution {
         return count;
     }
     private int[] traverse(TreeNode root){
-        if(root==null) return new int[]{0,0};
-        int subtree_sum=0;
-        int subtree_count=0;
+        if(root==null){ return new int[]{0,0};}
         int[] left= traverse(root.left);
         int[] right=traverse(root.right);
-        subtree_sum=left[0]+right[0]+root.val;
-        subtree_count=left[1]+right[1]+1;
+        int subtree_sum=left[0]+right[0]+root.val;
+        int subtree_count=left[1]+right[1]+1;
         if(subtree_sum/subtree_count==root.val){count++;}
         return new int[]{subtree_sum,subtree_count};
     }
