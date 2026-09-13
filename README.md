@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
