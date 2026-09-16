@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
