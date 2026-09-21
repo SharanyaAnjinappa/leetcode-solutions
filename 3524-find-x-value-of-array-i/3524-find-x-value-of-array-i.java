@@ -1,48 +1,20 @@
 class Solution {
-    int n;
-
     public long[] resultArray(int[] nums, int k) {
-        n = nums.length;
         long[] res = new long[k];
+        long[] cnt = new long[k];
+        for(int x: nums){
+            int mod = x%k;
 
-        for (int i = 0; i < n; i++)
-            nums[i] %= k;
-
-        for (int r = 0; r < k; r++) {
-            long[][] dp = new long[n][k + 1];
-            for (long[] row : dp) Arrays.fill(row, -1);
-            res[r] = solve(0, k, r, k, nums, dp);
+            long[] tmp = new long[k];
+            for(int i=0;i<k;i++){
+                int newMod = (i*mod)%k;
+                tmp[newMod] += cnt[i];
+                res[newMod] += cnt[i];
+            }
+            res[mod]++;
+            tmp[mod]++;
+            cnt = tmp;
         }
-
         return res;
-    }
-
-    long solve(int i, int prevProd, int req, int k,
-               int[] nums, long[][] dp) {
-
-        if (i >= nums.length)
-            return 0;
-
-        if (dp[i][prevProd] != -1)
-            return dp[i][prevProd];
-
-        long skip = 0, take = 0;
-
-        // Skip current element (only if no subarray started yet)
-        if (prevProd == k) {
-            skip = solve(i + 1, k, req, k, nums, dp);
-        }
-
-        // Take current element
-        long curProd;
-        if (prevProd == k)
-            curProd = nums[i];
-        else
-            curProd = ((long) prevProd * nums[i]) % k;
-
-        take += (curProd == req) ? 1 : 0;
-        take += solve(i + 1, (int) curProd, req, k, nums, dp);
-
-        return dp[i][prevProd] = take + skip;
     }
 }
