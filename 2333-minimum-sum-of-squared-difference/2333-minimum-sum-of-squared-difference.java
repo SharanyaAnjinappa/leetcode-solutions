@@ -1,36 +1,27 @@
 class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int n = nums1.length;
-        int[] d = new int[n];
+        int[] freq = new int[100001];
         long total = 0;
         int mx = 0;
-        for (int i = 0; i < n; ++i) {
-            d[i] = Math.abs(nums1[i] - nums2[i]);
-            total += d[i];
-            mx = Math.max(mx, d[i]);
+        for (int i = 0; i < n; i++) {
+            int diff = Math.abs(nums1[i] - nums2[i]);
+            freq[diff]++;
+            total += diff;
+            mx = Math.max(mx, diff);
         }
         long k = (long)k1 + k2;
         if (total <= k) return 0;
-        int left = 0, right = mx;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            long need = 0;
-            for (int v : d) need += Math.max(0, v - mid);
-            if (need <= k) right = mid;
-            else left = mid + 1;
+        for(int d=mx;d>0 && k>0;d--){
+            int moves=(int) Math.min(k,(long) freq[d]);
+            freq[d]-=moves;
+            freq[d-1]+=moves;
+            k-=moves;
         }
-        for (int i = 0; i < n; ++i) {
-            k -= Math.max(0, d[i] - left);
-            d[i] = Math.min(d[i], left);
+        long ans=0;
+        for(int d=1;d<=mx;d++){
+            ans+=(long)d*d*freq[d];
         }
-        for (int i = 0; i < n && k > 0; ++i) {
-            if (d[i] == left) {
-                --d[i];
-                --k;
-            }
-        }
-        long ans = 0;
-        for (int v : d) ans += (long)v * v;
         return ans;
     }
 }
