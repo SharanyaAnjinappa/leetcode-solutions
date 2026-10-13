@@ -1,7 +1,6 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
         int n=nums.length;
-        //long [] arr= new long[n];
         for(int i=0;i<n;i++){
             nums[i]=nums[i]*nums[i];
         }
