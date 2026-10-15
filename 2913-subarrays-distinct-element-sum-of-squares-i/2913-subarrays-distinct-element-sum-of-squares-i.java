@@ -16,6 +16,7 @@ class Solution {
                 }
                 ans+=distint*distint;
             }
-        } return ans;
+        }
+         return ans;
     }
 }
