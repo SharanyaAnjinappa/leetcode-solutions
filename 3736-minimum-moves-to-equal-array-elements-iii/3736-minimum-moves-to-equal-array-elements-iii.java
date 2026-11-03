@@ -2,9 +2,9 @@ class Solution {
     public int minMoves(int[] nums) {
         int max=0;
         int sum=0;
-        for(int x:nums){
-            max=Math.max(x,max);
-            sum+=x;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+            if(nums[i]>max){max=nums[i];}
         }
         return max * nums.length - sum;
     }
