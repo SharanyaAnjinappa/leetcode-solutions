@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0835-image-overlap) |
+| [0881-boats-to-save-people](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -655,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
